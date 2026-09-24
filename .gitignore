@@ -1,0 +1,13 @@
+# Archives and zips
+*.zip
+*.tar.gz
+*.rar
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vercel project metadata
+.vercel
